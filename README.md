@@ -1,6 +1,5 @@
 # CocosIngameConsole
-
-cocos creator 游戏内控制台
+参考了Unity的一个debug仓库 https://github.com/yasirkula/UnityIngameDebugConsole
 
 - 外部显示新增加的log和fps信息
 <img height="235" src="imgs/newAdd.png" alt="screenshot" />
